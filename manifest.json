@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "path": "sam2.1-hiera-large-hf/model.safetensors",
+      "size": 897897416,
+      "sha256": "dc407dce21301fd94abb395c5099b4f2c455fdc8a8f261ac3d0ea6d4cd197230",
+      "parts": [
+        "sam2.1-hiera-large-hf/model.safetensors.part000",
+        "sam2.1-hiera-large-hf/model.safetensors.part001",
+        "sam2.1-hiera-large-hf/model.safetensors.part002",
+        "sam2.1-hiera-large-hf/model.safetensors.part003",
+        "sam2.1-hiera-large-hf/model.safetensors.part004",
+        "sam2.1-hiera-large-hf/model.safetensors.part005",
+        "sam2.1-hiera-large-hf/model.safetensors.part006",
+        "sam2.1-hiera-large-hf/model.safetensors.part007",
+        "sam2.1-hiera-large-hf/model.safetensors.part008",
+        "sam2.1-hiera-large-hf/model.safetensors.part009"
+      ]
+    }
+  ]
+}
