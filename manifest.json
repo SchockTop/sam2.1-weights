@@ -16,6 +16,22 @@
         "sam2.1-hiera-large-hf/model.safetensors.part008",
         "sam2.1-hiera-large-hf/model.safetensors.part009"
       ]
+    },
+    {
+      "path": "sam2.1-hiera-large-onnx/sam2.1_hiera_large.encoder.onnx",
+      "size": 852451097,
+      "sha256": "f18538735868c076b715d5abbdf1a9d5fb4b0939c00be9db42d6b3808cdd3251",
+      "parts": [
+        "sam2.1-hiera-large-onnx/sam2.1_hiera_large.encoder.onnx.part000",
+        "sam2.1-hiera-large-onnx/sam2.1_hiera_large.encoder.onnx.part001",
+        "sam2.1-hiera-large-onnx/sam2.1_hiera_large.encoder.onnx.part002",
+        "sam2.1-hiera-large-onnx/sam2.1_hiera_large.encoder.onnx.part003",
+        "sam2.1-hiera-large-onnx/sam2.1_hiera_large.encoder.onnx.part004",
+        "sam2.1-hiera-large-onnx/sam2.1_hiera_large.encoder.onnx.part005",
+        "sam2.1-hiera-large-onnx/sam2.1_hiera_large.encoder.onnx.part006",
+        "sam2.1-hiera-large-onnx/sam2.1_hiera_large.encoder.onnx.part007",
+        "sam2.1-hiera-large-onnx/sam2.1_hiera_large.encoder.onnx.part008"
+      ]
     }
   ]
 }

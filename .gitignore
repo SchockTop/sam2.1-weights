@@ -1,2 +1,3 @@
 *.joining
 /sam2.1-hiera-large-hf/model.safetensors
+/sam2.1-hiera-large-onnx/sam2.1_hiera_large.encoder.onnx
